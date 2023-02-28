@@ -1,6 +1,6 @@
 (function($) {
-    "use strict"; 
-	
+    
+    
 	/* Preloader */
 	$(window).on('load', function() {
 		var preloaderFadeOutTime = 500;
@@ -366,3 +366,5 @@
 	});
 
 })(jQuery);
+
+
